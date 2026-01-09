@@ -1,21 +1,25 @@
-# mandragore_vision_language_grounding 
+
 
 # 📜 Localisation des mots clés dans des manuscrits médiévaux de projet Mandragore 
+# (mandragore_vision_language_grounding)
 
 ## 🎯 Objectif du projet
+Collection MANDRAGORE de Bnf: https://mandragore.bnf.fr/
+
 Ce projet a pour objectif de localiser des labels textuels (noms d’animaux) dans des images, en identifiant leur position précise dans des manuscrits médiévaux illustrés.
 
 ## 📂 Données
 
-Une collection d’images de manuscrits médiévaux : 63 images 
+La collection de manuscrits "Latin 6838B": 63 images 
 
-Un fichier CSV : df_latin.csv, contenant des annotations au niveau de l’image :
+Métadonnées de "Latin 6838B" : df_latin.csv, contenant des annotations au niveau de l’image :
 
 mots_cles : noms des animaux présents dans l’image (en latin)
 
 keywords : traduction anglaise correspondante des labels
 
-Chaque image peut contenir plusieurs animaux.
+Chaque image peut contenir 0 ou plusieurs animaux.
+
 
 ## ⚙️ Méthode (Pipeline)
 
