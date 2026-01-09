@@ -1,6 +1,6 @@
 images/*
 output_sam/*/*.npy
-
+output_clip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

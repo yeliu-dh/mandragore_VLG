@@ -72,8 +72,3 @@ Les résultats sont :
 sauvegardés sous forme d’images annotées: output_clip/vis_clip
 
 enregistrés dans un fichier de résultats (JSON):output_clip/result_clip
-
-### 📊 Résultats
-80% (50/63) des images sont bien labelisés.
-
-### 🧠travaux futurs
