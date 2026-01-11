@@ -1,0 +1,2720 @@
+{
+  "10r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        733,
+        1788,
+        1638,
+        2251
+      ],
+      "label_en": "reindeer",
+      "label_fr": "renne",
+      "score": 0.286258727312088
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        208,
+        1111,
+        1116,
+        1681
+      ],
+      "label_en": "tiger",
+      "label_fr": "tigre",
+      "score": 0.2628635764122009
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        733,
+        1788,
+        1638,
+        2251
+      ],
+      "label_en": "reindeer",
+      "label_fr": "renne",
+      "score": 0.286258727312088
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        208,
+        1111,
+        1116,
+        1681
+      ],
+      "label_en": "tiger",
+      "label_fr": "tigre",
+      "score": 0.2628635764122009
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        733,
+        1788,
+        1638,
+        2251
+      ],
+      "label_en": "reindeer",
+      "label_fr": "renne",
+      "score": 0.286258727312088
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        208,
+        1111,
+        1116,
+        1681
+      ],
+      "label_en": "tiger",
+      "label_fr": "tigre",
+      "score": 0.2628635764122009
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        733,
+        1788,
+        1638,
+        2251
+      ],
+      "label_en": "reindeer",
+      "label_fr": "renne",
+      "score": 0.286258727312088
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        208,
+        1111,
+        1116,
+        1681
+      ],
+      "label_en": "tiger",
+      "label_fr": "tigre",
+      "score": 0.2628635764122009
+    }
+  ],
+  "10v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        296,
+        1720,
+        1325,
+        2410
+      ],
+      "label_en": "eale",
+      "label_fr": "eale",
+      "score": 0.2661091387271881
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        296,
+        1720,
+        1325,
+        2410
+      ],
+      "label_en": "eale",
+      "label_fr": "eale",
+      "score": 0.2661091387271881
+    }
+  ],
+  "11r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        815,
+        471,
+        1780,
+        974
+      ],
+      "label_en": "wolf",
+      "label_fr": "loup",
+      "score": 0.2847641408443451
+    }
+  ],
+  "12r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        67,
+        1372,
+        814,
+        2195
+      ],
+      "label_en": "dog",
+      "label_fr": "chien",
+      "score": 0.3280438184738159
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        67,
+        1372,
+        814,
+        2195
+      ],
+      "label_en": "dog",
+      "label_fr": "chien",
+      "score": 0.3280438184738159
+    }
+  ],
+  "12v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1343,
+        1526,
+        1962,
+        1735
+      ],
+      "label_en": "dog",
+      "label_fr": "chien",
+      "score": 0.23106788098812103
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        244,
+        1494,
+        1263,
+        1735
+      ],
+      "label_en": "dog",
+      "label_fr": "chien",
+      "score": 0.282999187707901
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        1343,
+        1526,
+        1962,
+        1735
+      ],
+      "label_en": "dog",
+      "label_fr": "chien",
+      "score": 0.23106788098812103
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        244,
+        1494,
+        1263,
+        1735
+      ],
+      "label_en": "dog",
+      "label_fr": "chien",
+      "score": 0.282999187707901
+    }
+  ],
+  "14r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        893,
+        277,
+        1467,
+        822
+      ],
+      "label_en": "horse",
+      "label_fr": "cheval ",
+      "score": 0.29462337493896484
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1089,
+        523,
+        1786,
+        979
+      ],
+      "label_en": "sheep",
+      "label_fr": " mouton ",
+      "score": 0.31837478280067444
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        311,
+        203,
+        617,
+        982
+      ],
+      "label_en": "sheep",
+      "label_fr": " mouton ",
+      "score": 0.27921968698501587
+    }
+  ],
+  "14v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        276,
+        1095,
+        1085,
+        1601
+      ],
+      "label_en": "ram",
+      "label_fr": "belier",
+      "score": 0.34572046995162964
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        227,
+        508,
+        911,
+        864
+      ],
+      "label_en": "ram",
+      "label_fr": "belier",
+      "score": 0.3580934405326843
+    }
+  ],
+  "15r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        896,
+        1032,
+        1788,
+        1497
+      ],
+      "label_en": "wild boar",
+      "label_fr": "sanglier",
+      "score": 0.2897447645664215
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        894,
+        1731,
+        1687,
+        2206
+      ],
+      "label_en": "goat",
+      "label_fr": "bouc",
+      "score": 0.2912072241306305
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        315,
+        358,
+        1048,
+        859
+      ],
+      "label_en": "goat",
+      "label_fr": "bouc",
+      "score": 0.325395792722702
+    }
+  ],
+  "15v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        530,
+        1401,
+        1571,
+        2188
+      ],
+      "label_en": "dromedary",
+      "label_fr": "dromadaire",
+      "score": 0.3175083100795746
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1157,
+        325,
+        1852,
+        816
+      ],
+      "label_en": "bull",
+      "label_fr": "taureau",
+      "score": 0.3113183379173279
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        530,
+        1401,
+        1571,
+        2188
+      ],
+      "label_en": "dromedary",
+      "label_fr": "dromadaire",
+      "score": 0.3175083100795746
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        1157,
+        325,
+        1852,
+        816
+      ],
+      "label_en": "bull",
+      "label_fr": "taureau",
+      "score": 0.3113183379173279
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        530,
+        1401,
+        1571,
+        2188
+      ],
+      "label_en": "dromedary",
+      "label_fr": "dromadaire",
+      "score": 0.3175083100795746
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        1157,
+        325,
+        1852,
+        816
+      ],
+      "label_en": "bull",
+      "label_fr": "taureau",
+      "score": 0.3113183379173279
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        530,
+        1401,
+        1571,
+        2188
+      ],
+      "label_en": "dromedary",
+      "label_fr": "dromadaire",
+      "score": 0.3175083100795746
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        1157,
+        325,
+        1852,
+        816
+      ],
+      "label_en": "bull",
+      "label_fr": "taureau",
+      "score": 0.3113183379173279
+    }
+  ],
+  "16r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        410,
+        1173,
+        1460,
+        2030
+      ],
+      "label_en": "camel",
+      "label_fr": "chameau",
+      "score": 0.3260205388069153
+    }
+  ],
+  "16v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        338,
+        1041,
+        1222,
+        1824
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.3045501112937927
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        258,
+        259,
+        1161,
+        728
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.2826874554157257
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        338,
+        1041,
+        1222,
+        1824
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.3045501112937927
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        258,
+        259,
+        1161,
+        728
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.2826874554157257
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        338,
+        1041,
+        1222,
+        1824
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.3045501112937927
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        258,
+        259,
+        1161,
+        728
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.2826874554157257
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        338,
+        1041,
+        1222,
+        1824
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.3045501112937927
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        258,
+        259,
+        1161,
+        728
+      ],
+      "label_en": "donkey",
+      "label_fr": "ane",
+      "score": 0.2826874554157257
+    }
+  ],
+  "17r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        254,
+        461,
+        1387,
+        1182
+      ],
+      "label_en": "horse",
+      "label_fr": "cheval",
+      "score": 0.31786152720451355
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        249,
+        438,
+        1209,
+        1187
+      ],
+      "label_en": "horse",
+      "label_fr": "cheval",
+      "score": 0.2546583414077759
+    }
+  ],
+  "18r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        275,
+        1952,
+        661,
+        2327
+      ],
+      "label_en": "cat",
+      "label_fr": "chat ",
+      "score": 0.3258329927921295
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        633,
+        2170,
+        979,
+        2269
+      ],
+      "label_en": "mouse",
+      "label_fr": " souris",
+      "score": 0.261191725730896
+    }
+  ],
+  "18v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1079,
+        1806,
+        1770,
+        2200
+      ],
+      "label_en": "hedgehog",
+      "label_fr": "herisson",
+      "score": 0.32703927159309387
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1233,
+        625,
+        1605,
+        762
+      ],
+      "label_en": "mouse",
+      "label_fr": "souris",
+      "score": 0.24690689146518707
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        395,
+        1400,
+        748,
+        1547
+      ],
+      "label_en": "mouse",
+      "label_fr": "souris",
+      "score": 0.252314031124115
+    }
+  ],
+  "1r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        225,
+        1214,
+        1282,
+        1821
+      ],
+      "label_en": "lion",
+      "label_fr": "lion",
+      "score": 0.3103972375392914
+    }
+  ],
+  "20r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        726,
+        657,
+        1723,
+        1224
+      ],
+      "label_en": "eagle",
+      "label_fr": "aigle",
+      "score": 0.28410398960113525
+    }
+  ],
+  "20v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        74,
+        743,
+        1022,
+        1445
+      ],
+      "label_en": "vulture",
+      "label_fr": "vautour",
+      "score": 0.292323499917984
+    }
+  ],
+  "21r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        987,
+        165,
+        1828,
+        1000
+      ],
+      "label_en": "crane",
+      "label_fr": "grue",
+      "score": 0.33156466484069824
+    }
+  ],
+  "21v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1015,
+        1327,
+        1878,
+        1932
+      ],
+      "label_en": "grille",
+      "label_fr": "calandre",
+      "score": 0.23764929175376892
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1181,
+        243,
+        1824,
+        644
+      ],
+      "label_en": "parrot",
+      "label_fr": "perroquet",
+      "score": 0.26665690541267395
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        589,
+        1395,
+        887,
+        1654
+      ],
+      "label_en": "parrot",
+      "label_fr": "perroquet",
+      "score": 0.3056733012199402
+    }
+  ],
+  "22r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        265,
+        694,
+        799,
+        1266
+      ],
+      "label_en": "stork",
+      "label_fr": "cigogne",
+      "score": 0.34902241826057434
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1150,
+        1393,
+        1731,
+        1898
+      ],
+      "label_en": "swan",
+      "label_fr": "cygne",
+      "score": 0.32829543948173523
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        265,
+        694,
+        799,
+        1266
+      ],
+      "label_en": "stork",
+      "label_fr": "cigogne",
+      "score": 0.34902241826057434
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        1150,
+        1393,
+        1731,
+        1898
+      ],
+      "label_en": "swan",
+      "label_fr": "cygne",
+      "score": 0.32829543948173523
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        265,
+        694,
+        799,
+        1266
+      ],
+      "label_en": "stork",
+      "label_fr": "cigogne",
+      "score": 0.34902241826057434
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        1150,
+        1393,
+        1731,
+        1898
+      ],
+      "label_en": "swan",
+      "label_fr": "cygne",
+      "score": 0.32829543948173523
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        265,
+        694,
+        799,
+        1266
+      ],
+      "label_en": "stork",
+      "label_fr": "cigogne",
+      "score": 0.34902241826057434
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        1150,
+        1393,
+        1731,
+        1898
+      ],
+      "label_en": "swan",
+      "label_fr": "cygne",
+      "score": 0.32829543948173523
+    }
+  ],
+  "22v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        768,
+        1756,
+        1532,
+        2448
+      ],
+      "label_en": "ibis",
+      "label_fr": "ibis ",
+      "score": 0.31111031770706177
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        883,
+        398,
+        1676,
+        912
+      ],
+      "label_en": "ibis",
+      "label_fr": "ibis ",
+      "score": 0.32548221945762634
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        1065,
+        865,
+        1704,
+        1377
+      ],
+      "label_en": "nest",
+      "label_fr": " nid",
+      "score": 0.30420947074890137
+    }
+  ],
+  "23r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        446,
+        975,
+        1259,
+        1751
+      ],
+      "label_en": "ostrich",
+      "label_fr": "autruche ",
+      "score": 0.33796489238739014
+    }
+  ],
+  "23v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1069,
+        1182,
+        1782,
+        1756
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3394157886505127
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        332,
+        443,
+        737,
+        797
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3331891894340515
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        1069,
+        1182,
+        1782,
+        1756
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3394157886505127
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        332,
+        443,
+        737,
+        797
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3331891894340515
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        1069,
+        1182,
+        1782,
+        1756
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3394157886505127
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        332,
+        443,
+        737,
+        797
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3331891894340515
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        1069,
+        1182,
+        1782,
+        1756
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3394157886505127
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        332,
+        443,
+        737,
+        797
+      ],
+      "label_en": "coot",
+      "label_fr": "foulque",
+      "score": 0.3331891894340515
+    }
+  ],
+  "24r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        84,
+        241,
+        1013,
+        838
+      ],
+      "label_en": "phoenix",
+      "label_fr": "phenix",
+      "score": 0.27494189143180847
+    }
+  ],
+  "24v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        724,
+        528,
+        1198,
+        1205
+      ],
+      "label_en": "cinnamolgus",
+      "label_fr": " cinnamolgus ",
+      "score": 0.2825247347354889
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        727,
+        1998,
+        1391,
+        2296
+      ],
+      "label_en": "bird (unidentified)",
+      "label_fr": "oiseau (non identifie)",
+      "score": 0.2907683849334717
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        416,
+        1347,
+        882,
+        1762
+      ],
+      "label_en": "bird (unidentified)",
+      "label_fr": "oiseau (non identifie)",
+      "score": 0.3198696970939636
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        1263,
+        1814,
+        1785,
+        2292
+      ],
+      "label_en": "bird (unidentified)",
+      "label_fr": "oiseau (non identifie)",
+      "score": 0.3160910904407501
+    }
+  ],
+  "25r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        363,
+        1948,
+        789,
+        2379
+      ],
+      "label_en": "owl",
+      "label_fr": "hibou",
+      "score": 0.343143492937088
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1282,
+        517,
+        1860,
+        1124
+      ],
+      "label_en": "pelican",
+      "label_fr": " pelican",
+      "score": 0.35043051838874817
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        363,
+        1948,
+        789,
+        2379
+      ],
+      "label_en": "owl",
+      "label_fr": "hibou",
+      "score": 0.343143492937088
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        1282,
+        517,
+        1860,
+        1124
+      ],
+      "label_en": "pelican",
+      "label_fr": " pelican",
+      "score": 0.35043051838874817
+    }
+  ],
+  "25v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        301,
+        554,
+        906,
+        1286
+      ],
+      "label_en": "partridge",
+      "label_fr": "perdrix",
+      "score": 0.30698174238204956
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1295,
+        1692,
+        1775,
+        2058
+      ],
+      "label_en": "partridge",
+      "label_fr": "perdrix",
+      "score": 0.3399559259414673
+    }
+  ],
+  "26r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1220,
+        1417,
+        1589,
+        1660
+      ],
+      "label_en": "magpie",
+      "label_fr": "pie",
+      "score": 0.2886362373828888
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1144,
+        2073,
+        1579,
+        2430
+      ],
+      "label_en": "magpie",
+      "label_fr": "pie",
+      "score": 0.29136213660240173
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        403,
+        357,
+        793,
+        552
+      ],
+      "label_en": "hawk",
+      "label_fr": "epervier",
+      "score": 0.30054551362991333
+    }
+  ],
+  "26v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        193,
+        1538,
+        756,
+        2138
+      ],
+      "label_en": "nightingale",
+      "label_fr": "rossignol",
+      "score": 0.3003166615962982
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1293,
+        752,
+        1616,
+        1076
+      ],
+      "label_en": "nightingale",
+      "label_fr": "rossignol",
+      "score": 0.27272307872772217
+    }
+  ],
+  "27r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        466,
+        665,
+        802,
+        973
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.2689208686351776
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1315,
+        143,
+        1775,
+        508
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.29506319761276245
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        466,
+        665,
+        802,
+        973
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.2689208686351776
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        1315,
+        143,
+        1775,
+        508
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.29506319761276245
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        466,
+        665,
+        802,
+        973
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.2689208686351776
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        1315,
+        143,
+        1775,
+        508
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.29506319761276245
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        466,
+        665,
+        802,
+        973
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.2689208686351776
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        1315,
+        143,
+        1775,
+        508
+      ],
+      "label_en": "crow",
+      "label_fr": "corbeau",
+      "score": 0.29506319761276245
+    }
+  ],
+  "27v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1403,
+        268,
+        1783,
+        562
+      ],
+      "label_en": "dove",
+      "label_fr": "colombe",
+      "score": 0.32218992710113525
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1403,
+        268,
+        1783,
+        562
+      ],
+      "label_en": "dove",
+      "label_fr": "colombe",
+      "score": 0.32218992710113525
+    }
+  ],
+  "28r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        370,
+        1086,
+        795,
+        1302
+      ],
+      "label_en": "swallow",
+      "label_fr": "hirondelle",
+      "score": 0.27351927757263184
+    }
+  ],
+  "28v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1234,
+        1628,
+        1691,
+        2008
+      ],
+      "label_en": "quail",
+      "label_fr": "caille",
+      "score": 0.3077244162559509
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        271,
+        1978,
+        724,
+        2359
+      ],
+      "label_en": "rooster",
+      "label_fr": "coq",
+      "score": 0.34840068221092224
+    }
+  ],
+  "29r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        397,
+        1102,
+        803,
+        1470
+      ],
+      "label_en": "duck",
+      "label_fr": "canard",
+      "score": 0.34804123640060425
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        397,
+        1102,
+        803,
+        1470
+      ],
+      "label_en": "duck",
+      "label_fr": "canard",
+      "score": 0.34804123640060425
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        397,
+        1102,
+        803,
+        1470
+      ],
+      "label_en": "duck",
+      "label_fr": "canard",
+      "score": 0.34804123640060425
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        397,
+        1102,
+        803,
+        1470
+      ],
+      "label_en": "duck",
+      "label_fr": "canard",
+      "score": 0.34804123640060425
+    }
+  ],
+  "2r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        259,
+        505,
+        1320,
+        1106
+      ],
+      "label_en": "horse",
+      "label_fr": "cheval ",
+      "score": 0.2176121175289154
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1318,
+        704,
+        1986,
+        1074
+      ],
+      "label_en": "horse",
+      "label_fr": "cheval ",
+      "score": 0.24356673657894135
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        988,
+        557,
+        1097,
+        657
+      ],
+      "label_en": "unk",
+      "label_fr": "unk",
+      "score": 0.0
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        259,
+        505,
+        1320,
+        1106
+      ],
+      "label_en": "horse",
+      "label_fr": "cheval ",
+      "score": 0.2176121175289154
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        1318,
+        704,
+        1986,
+        1074
+      ],
+      "label_en": "horse",
+      "label_fr": "cheval ",
+      "score": 0.24356673657894135
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        988,
+        557,
+        1097,
+        657
+      ],
+      "label_en": "unk",
+      "label_fr": "unk",
+      "score": 0.0
+    }
+  ],
+  "2v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        276,
+        231,
+        1255,
+        836
+      ],
+      "label_en": "panther",
+      "label_fr": "panthere ",
+      "score": 0.3311659097671509
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        276,
+        231,
+        1255,
+        836
+      ],
+      "label_en": "panther",
+      "label_fr": "panthere ",
+      "score": 0.3311659097671509
+    }
+  ],
+  "30v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        973,
+        1661,
+        1900,
+        2395
+      ],
+      "label_en": "tree (unidentified)",
+      "label_fr": "arbre (non identifie)",
+      "score": 0.2445799708366394
+    }
+  ],
+  "31v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        644,
+        541,
+        1636,
+        914
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.3190968930721283
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        588,
+        122,
+        1670,
+        334
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.2609328031539917
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        644,
+        541,
+        1636,
+        914
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.3190968930721283
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        588,
+        122,
+        1670,
+        334
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.2609328031539917
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        644,
+        541,
+        1636,
+        914
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.3190968930721283
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        588,
+        122,
+        1670,
+        334
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.2609328031539917
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        644,
+        541,
+        1636,
+        914
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.3190968930721283
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        588,
+        122,
+        1670,
+        334
+      ],
+      "label_en": "viper",
+      "label_fr": " vipere",
+      "score": 0.2609328031539917
+    }
+  ],
+  "32r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        908,
+        1511,
+        1454,
+        2156
+      ],
+      "label_en": "asp",
+      "label_fr": "aspic",
+      "score": 0.3005058765411377
+    }
+  ],
+  "32v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        404,
+        1698,
+        1820,
+        2098
+      ],
+      "label_en": "amphisbene",
+      "label_fr": "amphisbene",
+      "score": 0.22441396117210388
+    }
+  ],
+  "33r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        764,
+        369,
+        1942,
+        896
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.24982398748397827
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        419,
+        1830,
+        1761,
+        2326
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.2549477517604828
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        259,
+        1375,
+        1438,
+        1675
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.25223666429519653
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        764,
+        369,
+        1942,
+        896
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.24982398748397827
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        419,
+        1830,
+        1761,
+        2326
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.2549477517604828
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        259,
+        1375,
+        1438,
+        1675
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.25223666429519653
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        764,
+        369,
+        1942,
+        896
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.24982398748397827
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        419,
+        1830,
+        1761,
+        2326
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.2549477517604828
+    },
+    {
+      "roi_id": 8,
+      "bbox": [
+        259,
+        1375,
+        1438,
+        1675
+      ],
+      "label_en": "scytale",
+      "label_fr": "scytale",
+      "score": 0.25223666429519653
+    }
+  ],
+  "33v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        376,
+        1083,
+        1699,
+        1449
+      ],
+      "label_en": "boa",
+      "label_fr": "boa",
+      "score": 0.23849061131477356
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        393,
+        1700,
+        1705,
+        2057
+      ],
+      "label_en": "javelin",
+      "label_fr": "javelot",
+      "score": 0.2587127387523651
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        376,
+        1083,
+        1699,
+        1449
+      ],
+      "label_en": "boa",
+      "label_fr": "boa",
+      "score": 0.23849061131477356
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        393,
+        1700,
+        1705,
+        2057
+      ],
+      "label_en": "javelin",
+      "label_fr": "javelot",
+      "score": 0.2587127387523651
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        376,
+        1083,
+        1699,
+        1449
+      ],
+      "label_en": "boa",
+      "label_fr": "boa",
+      "score": 0.23849061131477356
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        393,
+        1700,
+        1705,
+        2057
+      ],
+      "label_en": "javelin",
+      "label_fr": "javelot",
+      "score": 0.2587127387523651
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        376,
+        1083,
+        1699,
+        1449
+      ],
+      "label_en": "boa",
+      "label_fr": "boa",
+      "score": 0.23849061131477356
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        393,
+        1700,
+        1705,
+        2057
+      ],
+      "label_en": "javelin",
+      "label_fr": "javelot",
+      "score": 0.2587127387523651
+    }
+  ],
+  "34r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        280,
+        1828,
+        1616,
+        2076
+      ],
+      "label_en": "lizard",
+      "label_fr": "lezard",
+      "score": 0.28464919328689575
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        931,
+        847,
+        1658,
+        1044
+      ],
+      "label_en": "lizard",
+      "label_fr": "lezard",
+      "score": 0.2767608165740967
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        343,
+        205,
+        1643,
+        511
+      ],
+      "label_en": "lizard",
+      "label_fr": "lezard",
+      "score": 0.2747507691383362
+    }
+  ],
+  "34v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        452,
+        1843,
+        1692,
+        2135
+      ],
+      "label_en": "lizard",
+      "label_fr": "lezard",
+      "score": 0.3091423809528351
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        628,
+        1378,
+        1358,
+        1542
+      ],
+      "label_en": "lizard",
+      "label_fr": "lezard",
+      "score": 0.2722543776035309
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        686,
+        369,
+        1872,
+        753
+      ],
+      "label_en": "salamander",
+      "label_fr": "salamandre",
+      "score": 0.23991256952285767
+    }
+  ],
+  "35r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        326,
+        1216,
+        1772,
+        1647
+      ],
+      "label_en": "snake (unidentified)",
+      "label_fr": " serpent (non identifie)",
+      "score": 0.2658451497554779
+    }
+  ],
+  "36v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        587,
+        1918,
+        1772,
+        2352
+      ],
+      "label_en": "fish (unidentified)",
+      "label_fr": "poisson (non identifie) ",
+      "score": 0.2791096568107605
+    }
+  ],
+  "37r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        968,
+        2298,
+        1674,
+        2688
+      ],
+      "label_en": "whale",
+      "label_fr": "baleine ",
+      "score": 0.26152917742729187
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        31,
+        34,
+        2007,
+        2710
+      ],
+      "label_en": "whale",
+      "label_fr": "baleine ",
+      "score": 0.2885337471961975
+    }
+  ],
+  "37v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        1123,
+        804,
+        2013,
+        982
+      ],
+      "label_en": "dolphin",
+      "label_fr": "dauphin",
+      "score": 0.24938054382801056
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1123,
+        804,
+        2013,
+        982
+      ],
+      "label_en": "dolphin",
+      "label_fr": "dauphin",
+      "score": 0.24938054382801056
+    }
+  ],
+  "38r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        41,
+        0,
+        2022,
+        2692
+      ],
+      "label_en": "surmulet",
+      "label_fr": "surmulet",
+      "score": 0.26688697934150696
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        41,
+        0,
+        2022,
+        2692
+      ],
+      "label_en": "surmulet",
+      "label_fr": "surmulet",
+      "score": 0.26688697934150696
+    }
+  ],
+  "39r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        23,
+        45,
+        2007,
+        2686
+      ],
+      "label_en": "remora",
+      "label_fr": "remora",
+      "score": 0.27238714694976807
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        23,
+        45,
+        2007,
+        2686
+      ],
+      "label_en": "remora",
+      "label_fr": "remora",
+      "score": 0.27238714694976807
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        23,
+        45,
+        2007,
+        2686
+      ],
+      "label_en": "remora",
+      "label_fr": "remora",
+      "score": 0.27238714694976807
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        23,
+        45,
+        2007,
+        2686
+      ],
+      "label_en": "remora",
+      "label_fr": "remora",
+      "score": 0.27238714694976807
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        23,
+        45,
+        2007,
+        2686
+      ],
+      "label_en": "remora",
+      "label_fr": "remora",
+      "score": 0.27238714694976807
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        23,
+        45,
+        2007,
+        2686
+      ],
+      "label_en": "remora",
+      "label_fr": "remora",
+      "score": 0.27238714694976807
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        23,
+        45,
+        2007,
+        2686
+      ],
+      "label_en": "remora",
+      "label_fr": "remora",
+      "score": 0.27238714694976807
+    }
+  ],
+  "39v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        178,
+        1269,
+        326,
+        1400
+      ],
+      "label_en": "fish (unidentified)",
+      "label_fr": "poisson (non identifie)",
+      "score": 0.29235655069351196
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        34,
+        43,
+        2021,
+        2712
+      ],
+      "label_en": "fish (unidentified)",
+      "label_fr": "poisson (non identifie)",
+      "score": 0.27967822551727295
+    }
+  ],
+  "3v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        367,
+        1485,
+        905,
+        2156
+      ],
+      "label_en": "antelope",
+      "label_fr": "antilope",
+      "score": 0.2434123158454895
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        456,
+        360,
+        1473,
+        784
+      ],
+      "label_en": "antelope",
+      "label_fr": "antilope",
+      "score": 0.2775121331214905
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        367,
+        1485,
+        905,
+        2156
+      ],
+      "label_en": "antelope",
+      "label_fr": "antilope",
+      "score": 0.2434123158454895
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        456,
+        360,
+        1473,
+        784
+      ],
+      "label_en": "antelope",
+      "label_fr": "antilope",
+      "score": 0.2775121331214905
+    }
+  ],
+  "4r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        921,
+        1107,
+        1890,
+        1672
+      ],
+      "label_en": "lynx",
+      "label_fr": "lynx",
+      "score": 0.23204433917999268
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        192,
+        1861,
+        1087,
+        2419
+      ],
+      "label_en": "lynx",
+      "label_fr": "lynx",
+      "score": 0.3076281249523163
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        921,
+        1107,
+        1890,
+        1672
+      ],
+      "label_en": "lynx",
+      "label_fr": "lynx",
+      "score": 0.23204433917999268
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        192,
+        1861,
+        1087,
+        2419
+      ],
+      "label_en": "lynx",
+      "label_fr": "lynx",
+      "score": 0.3076281249523163
+    }
+  ],
+  "4v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        63,
+        610,
+        1822,
+        1364
+      ],
+      "label_en": "elephant",
+      "label_fr": "elephant",
+      "score": 0.3412471413612366
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        306,
+        1113,
+        741,
+        1368
+      ],
+      "label_en": "elephant",
+      "label_fr": "elephant",
+      "score": 0.28744834661483765
+    }
+  ],
+  "5v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        890,
+        821,
+        1849,
+        1338
+      ],
+      "label_en": "beaver",
+      "label_fr": "castor",
+      "score": 0.2948858439922333
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        256,
+        529,
+        738,
+        1356
+      ],
+      "label_en": "beaver",
+      "label_fr": "castor",
+      "score": 0.25873202085494995
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        890,
+        821,
+        1849,
+        1338
+      ],
+      "label_en": "beaver",
+      "label_fr": "castor",
+      "score": 0.2948858439922333
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        256,
+        529,
+        738,
+        1356
+      ],
+      "label_en": "beaver",
+      "label_fr": "castor",
+      "score": 0.25873202085494995
+    }
+  ],
+  "6r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        195,
+        1570,
+        1021,
+        2012
+      ],
+      "label_en": "ibex",
+      "label_fr": "bouquetin",
+      "score": 0.2600541412830353
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        607,
+        251,
+        1456,
+        933
+      ],
+      "label_en": "hyena",
+      "label_fr": "hyene",
+      "score": 0.2848532199859619
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        195,
+        1570,
+        1021,
+        2012
+      ],
+      "label_en": "ibex",
+      "label_fr": "bouquetin",
+      "score": 0.2600541412830353
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        607,
+        251,
+        1456,
+        933
+      ],
+      "label_en": "hyena",
+      "label_fr": "hyene",
+      "score": 0.2848532199859619
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        195,
+        1570,
+        1021,
+        2012
+      ],
+      "label_en": "ibex",
+      "label_fr": "bouquetin",
+      "score": 0.2600541412830353
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        607,
+        251,
+        1456,
+        933
+      ],
+      "label_en": "hyena",
+      "label_fr": "hyene",
+      "score": 0.2848532199859619
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        195,
+        1570,
+        1021,
+        2012
+      ],
+      "label_en": "ibex",
+      "label_fr": "bouquetin",
+      "score": 0.2600541412830353
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        607,
+        251,
+        1456,
+        933
+      ],
+      "label_en": "hyena",
+      "label_fr": "hyene",
+      "score": 0.2848532199859619
+    }
+  ],
+  "6v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        624,
+        1194,
+        1640,
+        1880
+      ],
+      "label_en": "bison",
+      "label_fr": "bison",
+      "score": 0.30614328384399414
+    }
+  ],
+  "7r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        286,
+        107,
+        773,
+        1048
+      ],
+      "label_en": "monkey",
+      "label_fr": "singe",
+      "score": 0.269696980714798
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        1089,
+        285,
+        1569,
+        1109
+      ],
+      "label_en": "monkey",
+      "label_fr": "singe",
+      "score": 0.25055932998657227
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        286,
+        107,
+        773,
+        1048
+      ],
+      "label_en": "monkey",
+      "label_fr": "singe",
+      "score": 0.269696980714798
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        1089,
+        285,
+        1569,
+        1109
+      ],
+      "label_en": "monkey",
+      "label_fr": "singe",
+      "score": 0.25055932998657227
+    }
+  ],
+  "7v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        807,
+        733,
+        1727,
+        1330
+      ],
+      "label_en": "deer",
+      "label_fr": "cerf ",
+      "score": 0.3220056891441345
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        175,
+        73,
+        1022,
+        704
+      ],
+      "label_en": "deer",
+      "label_fr": "cerf ",
+      "score": 0.3454776108264923
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        68,
+        964,
+        751,
+        1312
+      ],
+      "label_en": "quadruped (unidentified)",
+      "label_fr": "quadrupede (non identifie)",
+      "score": 0.2533988654613495
+    }
+  ],
+  "8r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        322,
+        1642,
+        1090,
+        2285
+      ],
+      "label_en": "goat",
+      "label_fr": "bouc",
+      "score": 0.32213911414146423
+    }
+  ],
+  "8v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        356,
+        1081,
+        946,
+        1642
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.33365577459335327
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        924,
+        1704,
+        1899,
+        2181
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.30889803171157837
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        356,
+        1081,
+        946,
+        1642
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.33365577459335327
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        924,
+        1704,
+        1899,
+        2181
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.30889803171157837
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        356,
+        1081,
+        946,
+        1642
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.33365577459335327
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        924,
+        1704,
+        1899,
+        2181
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.30889803171157837
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        356,
+        1081,
+        946,
+        1642
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.33365577459335327
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        924,
+        1704,
+        1899,
+        2181
+      ],
+      "label_en": "goat",
+      "label_fr": "chevre",
+      "score": 0.30889803171157837
+    }
+  ],
+  "9r.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        829,
+        748,
+        1739,
+        1238
+      ],
+      "label_en": "bear",
+      "label_fr": "ours",
+      "score": 0.27407267689704895
+    }
+  ],
+  "9v.JPG": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        179,
+        669,
+        1081,
+        1283
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.31350794434547424
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        855,
+        1437,
+        1761,
+        2058
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.3046398162841797
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        179,
+        669,
+        1081,
+        1283
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.31350794434547424
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        855,
+        1437,
+        1761,
+        2058
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.3046398162841797
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        179,
+        669,
+        1081,
+        1283
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.31350794434547424
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        855,
+        1437,
+        1761,
+        2058
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.3046398162841797
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        179,
+        669,
+        1081,
+        1283
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.31350794434547424
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        855,
+        1437,
+        1761,
+        2058
+      ],
+      "label_en": "leucrocote",
+      "label_fr": "leucrocote",
+      "score": 0.3046398162841797
+    }
+  ]
+}
