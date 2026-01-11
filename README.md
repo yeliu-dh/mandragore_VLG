@@ -1,7 +1,7 @@
 
 
-# 📜 Localisation des mots clés dans des manuscrits médiévaux de projet Mandragore 
-# (mandragore_vision_language_grounding)
+# 📜 Localisation des mots clés dans des manuscrits médiévaux de la collection Mandragore 
+# mandragore_vision_language_grounding
 
 ## 🎯 Objectif du projet
 Collection MANDRAGORE de Bnf: https://mandragore.bnf.fr/
@@ -21,9 +21,11 @@ keywords : traduction anglaise correspondante des labels
 Chaque image peut contenir 0 ou plusieurs animaux.
 
 
+
 ## ⚙️ Méthode (Pipeline)
 
 Notre approche se déroule en quatre étapes principales :
+
 
 ### 1️⃣DINO: Détection des bounding box des animales et des oiseaux 
 
@@ -32,6 +34,7 @@ Pour chaque image :
 Nous utilisons DINO afin de détecter automatiquement les zones contenant des animaux ou des oiseaux
 
 Cette étape produit des bounding boxes candidates
+
 
 ### 2️⃣ SAM3 :Segmentation de contours
 
@@ -47,7 +50,8 @@ les masques trop petits sont ignorés
 
 Cela permet de réduire les fragments non pertinents.
 
-### 3️⃣ Association image–texte avec CLIP
+
+### 3️⃣ CLIP : Association image–texte
 
 Chaque ROI (Region of Interest) est découpée à partir des contours fournis par SAM
 
@@ -63,6 +67,7 @@ nous calculons la similarité cosinus avec tous les labels candidats
 
 le label ayant le score le plus élevé est sélectionné si la similarité dépasse un seuil de 0,2
 
+
 ### 4️⃣ Visualisation et sauvegarde des résultats
 
 Les contours, labels prédits et scores de confiance sont affichés sur l’image
@@ -71,4 +76,4 @@ Les résultats sont :
 
 sauvegardés sous forme d’images annotées: output_clip/vis_clip
 
-enregistrés dans un fichier de résultats (JSON):output_clip/result_clip
+enregistrés dans un fichier de résultats (JSON):output_clip/result_clip.json
